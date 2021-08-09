@@ -1,0 +1,7 @@
+curl --location --request POST 'https://dev-oxdvogwi.us.auth0.com/oauth/token' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=V2XhXAdDQY8aCUW8Hae8wOg4ATA47BRZ' \
+--data-urlencode 'username=naimur.rahman103@gmail.com' \
+--data-urlencode 'password=Naimursourov103' \
+--data-urlencode 'grant_type=password' \
+--data-urlencode 'scope=openid'
